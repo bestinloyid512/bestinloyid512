@@ -1,9 +1,10 @@
+
 <h1 align="center">Hi 👋, I'm Bestine Loyid M A</h1>
 <h3 align="center">A passionate Information Security Ethical Hacking Student</h3>
 
 - 🌱 I’m currently learning **CEH**
 
-- 💬 Ask me about **Penetration Testing,Ethical Hacking,Coding**
+- 💬 Ask me about **Penetration Testing|Ethical Hacking|Coding**
 
 - 📫 How to reach me **bestinloyid512@gmail.com**
 
